@@ -1,7 +1,3 @@
-// src/GeneralPractitioner.java
-/**
- * Subclass of HealthProfessional representing a General Practitioner.
- */
 public class GeneralPractitioner extends HealthProfessional {
     private boolean acceptsWalkIns;
 
